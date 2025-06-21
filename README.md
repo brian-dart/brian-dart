@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on a webapplication platform pa to play as a backend developer<br>Looking to collaborate on webapplications projects and building scalable APIs<br>Currently learning Data Science and Machine Learning, <br>
+Currently working on a webapplication platform pay to play as a backend developer<br>Looking to collaborate on webapplications projects and building scalable APIs<br>Currently learning Data Science and Machine Learning, <br>
 
 
 # 💻 Tech Stack:
